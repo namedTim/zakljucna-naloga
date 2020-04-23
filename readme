@@ -9,3 +9,5 @@ Kliknemo na localhost
 
 Za ogled naloge v Unity zaženemo Unity in vanj dodamo projekt. Ob zagonu nam predlaga verzijo Unity-a, ki je najbolj primerna 
 za ogled projekta.
+
+Ogled izvoženih projektov torej delujočih aplikacij je mogoč tudi z direktnim dostopom do mape "Izvozene aplikacije"
