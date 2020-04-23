@@ -1,0 +1,13 @@
+{
+"companyName": "Timz",
+"productName": "skrito pod posteljo",
+"dataUrl": "stuff.data.unityweb",
+"wasmCodeUrl": "stuff.wasm.code.unityweb",
+"wasmFrameworkUrl": "stuff.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}

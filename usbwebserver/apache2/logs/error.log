@@ -1,0 +1,20 @@
+PHP Warning:  PHP Startup: Unable to load dynamic library 'F:/usbwebserver\\php\\ext\\php_curl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Apr 23 11:08:43.876027 2020] [mpm_winnt:notice] [pid 860:tid 796] AH00455: Apache/2.4.29 (Win32) PHP/7.1.11 configured -- resuming normal operations
+[Thu Apr 23 11:08:43.876027 2020] [mpm_winnt:notice] [pid 860:tid 796] AH00456: Server built: Nov  3 2017 01:01:54
+[Thu Apr 23 11:08:43.876027 2020] [core:notice] [pid 860:tid 796] AH00094: Command line: 'F:\\usbwebserver/apache2/bin/httpd_usbwv8.exe -d F:/usbwebserver/apache2'
+[Thu Apr 23 11:08:43.881012 2020] [mpm_winnt:notice] [pid 860:tid 796] AH00418: Parent: Created child process 16280
+PHP Warning:  PHP Startup: Unable to load dynamic library 'F:/usbwebserver\\php\\ext\\php_curl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Apr 23 11:08:44.530150 2020] [mpm_winnt:notice] [pid 16280:tid 808] AH00354: Child: Starting 64 worker threads.
+'--help' is not recognized as an internal or external command,
+operable program or batch file.
+'--help' is not recognized as an internal or external command,
+operable program or batch file.
+The system cannot find the path specified.
+'C:/Program' is not recognized as an internal or external command,
+operable program or batch file.
+'C:/Program' is not recognized as an internal or external command,
+operable program or batch file.
+'C:/Program' is not recognized as an internal or external command,
+operable program or batch file.
+'C:/Program' is not recognized as an internal or external command,
+operable program or batch file.

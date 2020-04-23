@@ -1,0 +1,13 @@
+{
+"companyName": "ComLab",
+"productName": "Spolnost skrita pod posteljo",
+"dataUrl": "WebGl 3.1 ko.data.unityweb",
+"wasmCodeUrl": "WebGl 3.1 ko.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGl 3.1 ko.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9a68ca79898e1794bacf31ff9821b0de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - matClick: {instanceID: 0}
+  - HIV: {fileID: 2100000, guid: 11696c674811e5444a683ce98fe8d498, type: 2}
+  - trihomonoza: {fileID: 2100000, guid: edc8dca263d398943972886808b0e3a3, type: 2}
+  - klamidija: {fileID: 2100000, guid: 3720e7abfa5d71f4d815f66ed9522306, type: 2}
+  - sifilis: {fileID: 2100000, guid: b1b5a2f7446d5434da22232f1594a3a7, type: 2}
+  - gonoreja: {fileID: 2100000, guid: 3c30c96e7609f9a46ac5f239e819b2dc, type: 2}
+  - mikroplazme: {fileID: 2100000, guid: d9102fd3014795f44bf3e3ceb2ec7208, type: 2}
+  - virusi: {fileID: 2100000, guid: 867f295402113f7408bf230e6f5b8a25, type: 2}
+  - herpes: {fileID: 2100000, guid: 8a6348f3c7209774f8f028fd7c5a3436, type: 2}
+  - HPV: {fileID: 2100000, guid: 5a32ab69bad275048bbdbf4687b3ae18, type: 2}
+  - hepatitis: {fileID: 2100000, guid: 7edf97915c16d9e45b4138ffdef49610, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
