@@ -1,0 +1,7 @@
+CREATE EVENT dogodek
+
+ON SCHEDGULE EVERY 1 YEAR 
+
+ DO 
+
+     UPDATE obdarovanje SET darilo = "igrača";

@@ -1,0 +1,10 @@
+delimiter //
+CREATE TRIGGER pogoj_pokoj BEFORE UPDATE ON postar
+FOR EACH ROW
+BEGIN
+	IF (NEW.Starost >= 65)
+    THEN
+    	SET NEW.pogojPokoj = 1;
+    END IF;
+END; //
+delimiter ;

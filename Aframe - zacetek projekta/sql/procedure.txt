@@ -1,0 +1,19 @@
+DELIMITER //
+
+CREATE PROCEDURE st_obdarovanj
+
+(IN id_bitja INT,OUT id_count INT)
+
+BEGIN
+
+SELECT COUNT(id) INTO id_count
+FROM dobraBitja
+INNER JOIN obdarovanje ON dobraBitja.id=obdarovanje.idBitja;
+
+WHERE idBitja = id_bitja;
+
+
+
+END //
+
+DELIMITER ;

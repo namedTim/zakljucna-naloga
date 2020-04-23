@@ -1,0 +1,43 @@
+DELIMITER //
+
+CREATE FUNCTION harshadovo_stevilo (x INT)
+
+RETURNS VARCHAR(300)
+
+BEGIN
+
+    DECLARE stevke INT DEFAULT 0;
+
+    DECLARE saved INT DEFAULT 0;
+
+    SET saved = x;
+
+    SET stevke  = x%10
+
+    SET x  = (x-x%10)/10
+
+    WHILE x > 0 DO
+
+        SET stevke = stevke*10+x%10
+
+        SET x = (x-x%10)/10
+
+     END WHILE;
+
+IF saved%stevke = 0
+
+        THEN
+
+        RETURN CONCAT("True");
+
+        ELSE
+
+        RETURN CONCAT("False");
+
+        END IF;   
+
+    RETURN CONCAT(y);
+
+END; //
+
+DELIMITER ;

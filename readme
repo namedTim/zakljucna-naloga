@@ -1,11 +1,9 @@
 Zaključna naloga je narejena za več različnih paltform v ogrodju Unity.
 Vsaka platforma predstavlja svoj projekt.
 
-Za prikaz nalog kliknemo na mapo usbwebserver in zaženemo aplikacijo usbwebserver.exe
+Za prikaz aframe aplikacije kliknemo na mapo Aframe - zacetek projekta in in zaženemo aplikacijo usbwebserver.exe
 Kliknemo na localhost
-	Odpre se wordpress spletna stran, iz katere lahko prenesemo delujoče aplikacije Android,
-	Vive, Windows. Na spletni strani si lahko tudi ogledamo internetno različico aplikacije ter
-	prvo narejeno različico aplikacije v Aframe.
+	Na spletni strani si lahko ogledamo prvo narejeno različico aplikacije.
 
 Za ogled naloge v Unity zaženemo Unity in vanj dodamo projekt. Ob zagonu nam predlaga verzijo Unity-a, ki je najbolj primerna 
 za ogled projekta.
