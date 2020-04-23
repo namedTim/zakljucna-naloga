@@ -60,9 +60,5 @@ public class changeBG : MonoBehaviour
 	            temp.transform.position = new Vector3(x, -22, y);
                 temp.transform.rotation = Quaternion.Euler(20, -r, 0);
 	        }
-        foreach (GameObject temp in GameObject.FindGameObjectsWithTag("Besedilo"))
-                {
-                    temp.GetComponent<TextChange>().NaNulo();
-                }
     }
 }

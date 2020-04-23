@@ -12,10 +12,11 @@ public class TextChange : MonoBehaviour
 	private bool pog = false;
 	private float CasDve = 1;
     public GameObject Nekaj;
+    public GameObject Cifra;
     
     void Start()
     {
-        spremeni = GetComponent <Text> ();
+        spremeni = GetComponent<Text> ();
     }
 
     void Update()
@@ -65,11 +66,8 @@ public class TextChange : MonoBehaviour
                 n=besedilo.Length-1;
             }
             spremeni.text = besedilo[n];
+            Cifra.GetComponent<TextNumChange>().Sprememba();
+
         }
-    }
-    public void NaNulo(){
-        n=0;
-        spremeni.text = besedilo[n];
-        
     }
 }

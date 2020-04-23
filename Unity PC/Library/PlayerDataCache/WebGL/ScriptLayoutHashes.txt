@@ -1,6 +1,6 @@
 WebGL
 PlayerPath?
-D:/Spolnost skrita pod posteljo/[Izdaje]/WebGL 3.4.19 skoraj koncna
+D:/Spolnost skrita pod posteljo/[Izdaje]/WebGL 2.0
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
@@ -210,7 +210,7 @@ ad9173d3a69d99153f38ed4b62226129 UnityEngine.Networking.dll:UnityEngine.Networki
 510fefd6a544e16a3ffefa557ddcba39 Unity.TextMeshPro.dll:TMPro.PackageResourceImporterWindow
 aa82b3ce4c0c9b227036c0337315c5d3 Unity.TextMeshPro.dll:TMPro.TMP_FontAsset
 e51c09a4cc447f11db225afcd8e3e490 Unity.TextMeshPro.dll:TMPro.TMP_Settings
-7904a49ba44d289789b387a26cacd5e9 Assembly-CSharp.dll:.TextChange
+f77e965df58e803dc9a061d53e367e13 Assembly-CSharp.dll:.TextChange
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
 cf96e5f7b3d069bab453925bd41be04e UnityEngine.TestRunner.dll:UnityEngine.TestTools.EnumerableSetUpTearDownCommandState
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback
@@ -301,3 +301,4 @@ ae91c545dea6ac849dd81c4b660c68ca Vuforia.UnityExtensions.dll:Vuforia.VuforiaConf
 69167579cf7fcbb2676fc1e675963dcd Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehaviour
 fbbf64dcbe0662e3eda1dec45ea8f895 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 71bb6a6b6c8f052f948db64c7dd3ca4f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
+a0c17386650be06f73a639518a82bc7f Assembly-CSharp.dll:.TextNumChange
